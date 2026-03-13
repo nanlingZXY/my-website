@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "主页",
+    "section": "",
+    "text": "项目\n内容\n\n\n\n\n姓名\n张歆雅\n\n\n学号\n2025303120169\n\n\n专业\n农业工程与信息技术\n\n\n课程\n数据分析、机器学习、农业遥感\n\n\n\n\n\n\n\nC++\nPython\nQuarto"
+  },
+  {
+    "objectID": "index.html#关于我",
+    "href": "index.html#关于我",
+    "title": "主页",
+    "section": "",
+    "text": "项目\n内容\n\n\n\n\n姓名\n张歆雅\n\n\n学号\n2025303120169\n\n\n专业\n农业工程与信息技术\n\n\n课程\n数据分析、机器学习、农业遥感"
+  },
+  {
+    "objectID": "index.html#技能",
+    "href": "index.html#技能",
+    "title": "主页",
+    "section": "",
+    "text": "C++\nPython\nQuarto"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "关于",
+    "section": "",
+    "text": "主修课程：数据分析、Python 编程\n技能掌握：\n\nPython 基础\nQuarto 文学化编程与网站发布\nGit/GitHub 基础操作\n\n\n\n\n\n数据可视化与数据故事讲述\n用 Quarto 制作可复现的分析报告\n开源工具学习与实践\n\n\n\n\n\nGitHub：https://github.com/nanlingZXY"
+  },
+  {
+    "objectID": "about.html#兴趣方向",
+    "href": "about.html#兴趣方向",
+    "title": "关于",
+    "section": "",
+    "text": "数据可视化与数据故事讲述\n用 Quarto 制作可复现的分析报告\n开源工具学习与实践"
+  },
+  {
+    "objectID": "about.html#联系方式",
+    "href": "about.html#联系方式",
+    "title": "关于",
+    "section": "",
+    "text": "GitHub：https://github.com/nanlingZXY"
+  }
+]
